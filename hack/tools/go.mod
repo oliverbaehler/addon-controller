@@ -7,7 +7,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.20.2
 	golang.org/x/oauth2 v0.23.0
 	k8s.io/client-go v0.31.2
-	sigs.k8s.io/controller-tools v0.16.4
+	sigs.k8s.io/controller-tools v0.16.5
 	sigs.k8s.io/kind v0.24.0
 )
 
